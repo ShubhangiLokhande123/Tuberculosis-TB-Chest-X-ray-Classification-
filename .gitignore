@@ -1,0 +1,31 @@
+# Dataset images — too large for GitHub
+TB_Chest_Radiography_Database/
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Generated report temp files
+temp/
+
+# API credentials — NEVER commit these
+kaggle.json
+*.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+*.swp
